@@ -4,13 +4,19 @@
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girum54&layout=compact&theme=default)](https://github.com/girum54)
+| Language | Repos | % |
+|----------|-------|---|
+| TypeScript | 2 | 66.7% |
+| JavaScript | 1 | 33.3% |
 
 <br><br>
 
 ## ✨ Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=girum54&show_icons=true&count_private=true&theme=default&bg_color=00000000&hide_border=true)](https://github.com/girum54)
+- **Public Repos**: 7
+- **Followers**: 3
+- **Following**: 7
+- **Account Created**: 2021-03-06
 
 <br><br>
 
