@@ -6,8 +6,8 @@
 
 | Language | Repos | % |
 |----------|-------|---|
-| TypeScript | 2 | 66.7% |
-| JavaScript | 1 | 33.3% |
+| JavaScript | 2 | 50.0% |
+| TypeScript | 2 | 50.0% |
 
 <br><br>
 
